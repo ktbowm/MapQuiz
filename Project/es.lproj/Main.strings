@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "???"; ObjectID = "Eco-RW-x5E"; */
+"Eco-RW-x5E.text" = "???";
+
+/* Class = "UILabel"; text = "Current Question"; ObjectID = "UyM-I6-xWo"; */
+"UyM-I6-xWo.text" = "Pregunta Actual";
+
+/* Class = "UITabBarItem"; title = "Quiz"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Examen";
+
+/* Class = "UIButton"; normalTitle = "Show Next Question"; ObjectID = "cN6-Nm-CPr"; */
+"cN6-Nm-CPr.normalTitle" = "Muestre La Siguiente Pregunta";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Mapa";
+
+/* Class = "UIButton"; normalTitle = "Show Answer"; ObjectID = "vgh-Z5-2JL"; */
+"vgh-Z5-2JL.normalTitle" = "Mostrar Respuesta";
+
+/* Class = "UILabel"; text = "Next Question"; ObjectID = "zbj-3B-I78"; */
+"zbj-3B-I78.text" = "Próxima Pregunta";
